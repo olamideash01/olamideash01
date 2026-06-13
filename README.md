@@ -7,7 +7,7 @@ Web Developer and Designer
 Full-stack web dev & designer. Hands-on coder passionate about seamless frontend UI & scalable backend architecture. Building apps that look great & run fast.
 
 * 🌍  I'm based in Europe
-* ✉️  You can contact me at [this.ash7@gmail.com](mailto:this.ash7@gmail.com)
+* ✉️  You can contact me at [olamideashh@gmial.com](mailto:olamideashh@gmail.com)
 * 🧠  I'm currently learning AI and Machine learning
 * 👥  I'm looking to collaborate on Your projects
 * 💬  Ask me about I'm also a cinematographer and filmmaker... it's a secret 🤫 don't tell anyone
